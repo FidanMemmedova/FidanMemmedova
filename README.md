@@ -1,7 +1,10 @@
 <h1 align="center">Welcome to my Coding World !</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<br/>
 <p align="left">A quick learner with a strong work etic, always strivig to improve and stary current with the latest web deveopment techologies. Committed to delivering high-quality andreliable solutions, with a solid understanding of database desing and implementation. Seeking to leverage my skills and knowledge ot contribute to t5he sccess of a dynamic and growing organization. Skilled in HTML5, CSS3, JavaScript, SASS. Strong engineerig professional with Bachelor's degree focused in Computer Science fro Baku State University. </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<br/>
+<br/>
 - 👨‍💻 All of my projects are available at [https://github.com/FidanMemmedova?tab=repositories](https://github.com/FidanMemmedova?tab=repositories)
 <br/>
 <br/>
