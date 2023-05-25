@@ -4,7 +4,7 @@
 <p align="left">Web developer with 1 year of experience in
 front-end development and a strong
 understanding of back-end technologies.
-Skilled in using n HTML5, CSS3, SASS, Bootstrap,
+Skilled in using HTML5, CSS3, SASS, Bootstrap,
 Javascript and jQuery to develop robust and
 secure front-end systems. Experienced in
 integrating front-end systems with back-end
