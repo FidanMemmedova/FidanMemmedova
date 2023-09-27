@@ -5,7 +5,7 @@
 front-end development and a strong
 understanding of back-end technologies.
 Skilled in using HTML5, CSS3, SASS, Bootstrap,
-Javascript and jQuery to develop robust and
+Javascript, React and jQuery to develop robust and
 secure front-end systems. Experienced in
 integrating front-end systems with back-end
 interfaces using C#, ASP.NET Core.A quick learner with a strong work etic, always strivig to improve and stary current with the latest web development technologies. Committed to delivering high-quality and reliable solutions, with a solid understanding of database desing and implementation. Seeking to leverage my skills and knowledge to contribute to the success of a dynamic and growing organization.</p>
