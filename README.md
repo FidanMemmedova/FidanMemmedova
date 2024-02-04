@@ -12,7 +12,7 @@ interfaces using C#, ASP.NET Core.A quick learner with a strong work etic, alway
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <br/>
 <br/>
-- 👨‍💻 All of my projects are available at [https://github.com/FidanMemmedova?tab=repositories](https://github.com/FidanMemmedova?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/FidanMemmedova?tab=repositories">My Projects</a>
 <br/>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
