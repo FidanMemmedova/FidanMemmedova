@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Coding World !</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 <br/>
-<p align="left">Web developer with 1 year of experience in
+<p align="left">Web developer with 1.5 year of experience in
 front-end development and a strong
 understanding of back-end technologies.
 Skilled in using HTML5, CSS3, SASS, Bootstrap,
