@@ -1,14 +1,14 @@
 <h1 align="center">Welcome to my Coding World !</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 <br/>
-<p align="left">Web developer with 1.5 years of experience in
-front-end development and a strong
-understanding of back-end technologies.
-Skilled in using HTML5, CSS3, SASS, Bootstrap,
-Javascript, jQuery, React, Typescript and Redux to develop robust and
-secure front-end systems. Experienced in
-integrating front-end systems with back-end
-interfaces using C# and ASP.NET Core. A quick learner with a strong work ethic, always striving to improve and stay current with the latest web development technologies. Committed to delivering high-quality and reliable solutions, with a solid understanding of database design and implementation. Seeking to leverage my skills and knowledge to contribute to the success of a dynamic and growing organization.</p>
+<p align="left"> Technical Proficiency: Expert in React, Redux, TypeScript, JavaScript, jQuery, Bootstrap,
+CSS, SCSS, Tailwind CSS, ChakraUI, Ant Design, and HTML.
+ Backend Knowledge: Familiar with C# MVC for backend development and Microsoft SQL
+for database management.
+ Teaching Expertise: Current Software Programming Instructor at Code Academy,
+mentoring students in HTML, CSS, SASS, JavaScript, TypeScript, and React.
+ Remote Work Experience: Proven success in delivering high-quality projects as a remote
+front-end developer.</p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <br/>
 <br/>
