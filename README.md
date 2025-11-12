@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Coding World!</h1>
 <h3 align="center">A passionate Front-End Developer from Azerbaijan</h3>
 <br/>
-<p align="left">- Technical Proficiency: Expert in React, React Query, Redux, Redux Toolkit, TypeScript, JavaScript, jQuery, Bootstrap, CSS, SCSS, Tailwind CSS, Chakra UI, Ant Design, and HTML5.</p>
+<p align="left">- Technical Proficiency: Expert in React, React Query, Redux, Redux Toolkit, TypeScript, Next.js,  JavaScript, jQuery, Bootstrap, CSS, SCSS, Tailwind CSS, Chakra UI, Ant Design, and HTML5.</p>
 <p align="left">- Backend Knowledge: Familiar with C# MVC for backend development and Microsoft SQL for database management.</p>
 <p align="left">- Teaching Expertise: Software Programming Instructor at Code Academy, mentoring students in HTML, CSS, SASS, JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, and other front-end & back-end technologies.</p>
 <p align="left">- Remote Work Experience: Proven success in delivering high-quality projects as a remote front-end developer.</p>
